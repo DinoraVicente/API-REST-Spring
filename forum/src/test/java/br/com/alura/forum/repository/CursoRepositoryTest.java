@@ -37,6 +37,5 @@ public class CursoRepositoryTest {
 		
 		Assert.assertNotNull(curso);
 		Assert.assertEquals(nomeCurso, curso.getNome());
-
 	}
 }
